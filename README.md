@@ -1,4 +1,7 @@
 ## 📝 ENSF 692 - Assignment 1 Tasks
+# First Name:Laxmi 
+# Last Name: Paudel
+# Favourite quote: "Well done is better than well said"
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
 * Edit the `assignment1code.py` file by following the instructions in the comments.
